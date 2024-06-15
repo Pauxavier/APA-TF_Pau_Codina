@@ -6,10 +6,11 @@ This is a simple Ping Pong game created using Python's **tkinter** library.
  The game features a moving ball that bounces off the walls and a user-controlled platform on the left side of the screen. The objective is to keep the ball in play by moving the platform up and down.
 
 ## How to Run the Game
-
 - Downolad the folder.
 - Unzip the folder.
 - Run the file "Ping Pong UPC.exe".
+  ![image](https://github.com/Pauxavier/APA-TF_Pau_Codina/assets/130084912/8bad2432-2eab-4860-a374-5cbdc9ec6fcb)
+
 
 ## Code Overview
 

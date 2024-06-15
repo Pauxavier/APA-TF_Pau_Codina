@@ -11,15 +11,8 @@ This is a simple Ping Pong game created using Python's **tkinter** library.
 
 ## How to Run the Game
 
-- Ensure you have Python installed on your machine.
-
-- Save the provided code into a file named ping_pong.py.
-
-- Run the file using Python:
-
-        python ping_pong.py
-
-
+- Downolad the folder.
+- Run the file "Ping Pong UPC.exe".
 
 ## Code Overview
 

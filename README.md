@@ -20,7 +20,8 @@ This is a simple Ping Pong game created using Python's **tkinter** library.
 
 - The game now should look like this:
 
-  
+  ![image](https://github.com/Pauxavier/APA-TF_Pau_Codina/assets/130084912/472a0f4f-e2fb-4212-9bdd-aa7046ffe3e5)
+
 ## Code Overview
 
 ### Importing the Library

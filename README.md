@@ -11,9 +11,11 @@ This is a simple Ping Pong game created using Python's **tkinter** library.
   ![image](https://github.com/Pauxavier/APA-TF_Pau_Codina/assets/130084912/910a853b-26df-454f-aede-502ac5f4c46b)
 
 - Unzip the folder.
+
+  ![image](https://github.com/Pauxavier/APA-TF_Pau_Codina/assets/130084912/41bc2a9b-9fb1-4c81-9005-e9777b8155d4)
+
 - Run the file "Ping Pong UPC.exe".
 
-  
   ![image](https://github.com/Pauxavier/APA-TF_Pau_Codina/assets/130084912/8bad2432-2eab-4860-a374-5cbdc9ec6fcb)
 
 
